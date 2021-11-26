@@ -7,4 +7,5 @@
 
 2021.11.20 토요일 : 로그 레벨 - **Result** : info, warn, error 만 쓸 예정 <br>
 2021.11.20 토요일 : Controller Service Repository Test - **Reuslt** : 흐름과 연습은 했음. 다만, 어노테이션에 대한 이해 부족 <br>
-2021.11.21 일요일 : Mock, TDD에 필요한 Annotation, Meta Annotation - **Result** :  <br>  
+2021.11.21 일요일 : Mock, TDD에 필요한 Annotation, Meta Annotation - **Result** : 대강! 느낌은 알았다 이거야 <br>  
+2021.11.26 금요일 : @Builer, innerclass static - **Result** :  <br>  
