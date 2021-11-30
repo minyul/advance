@@ -12,3 +12,4 @@
 2021.11.27 토요일 : 싱글톤 LazyHolder - **Result** : 블로그 정리할 예정, 간략하게 얘기하자면 static은 전부 로드가 되고 getInstance를 할때 LazyHolder가 초기화되며 객체생성 <br>
 2021.11.29 월요일 : @Valid 어노테이션 - **Result** :  <br>
 2021.11.30 화요일 : AllNoArgsConstructor, NoArgsConstructor 어노테이션 - **Result** :  <br>
+2021.11.30 화요일 : 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - **Result** :  <br>
