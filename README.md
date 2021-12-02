@@ -10,6 +10,6 @@
 2021.11.21 일요일 : Mock, TDD에 필요한 Annotation, Meta Annotation - **Result** : 대강! 느낌은 알았다 이거야 <br>  
 2021.11.26 금요일 : @Builer, innerclass static - **Result** :  @Builder 어노테이션 생성자위에 넣는거 추천. 관련 정리는 private backend<br>  
 2021.11.27 토요일 : 싱글톤 LazyHolder - **Result** : 블로그 정리할 예정, 간략하게 얘기하자면 static은 전부 로드가 되고 getInstance를 할때 LazyHolder가 초기화되며 객체생성 <br>
-2021.11.29 월요일 : @Valid 어노테이션 - **Result** :  <br>
-2021.11.30 화요일 : AllNoArgsConstructor, NoArgsConstructor 어노테이션 - **Result** :  <br>
-2021.11.30 화요일 : 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - **Result** :  <br>
+2021.11.29 월요일 : @Valid 어노테이션 - **Result** :  간단함. Requestbody 에 넣을때 어노테이션으로 쉽게 할수 있음. (의존성추가)<br>
+2021.11.30 화요일 : AllNoArgsConstructor, NoArgsConstructor 어노테이션 - **Result** :  이것또한 간단. 다만, 더나아가 ObjectMapper에 대해 공부해야할듯.<br>
+2021.11.30 화요일 : 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - **Result** : 회사에 대한 금융설계에 대해 완벽히 파악하고자함. 금융에 부족한 부분  <br>
