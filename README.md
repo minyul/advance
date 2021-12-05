@@ -17,6 +17,5 @@
 
 2021.12.05 일요일 : spring clould feign - **Result** :   <br>
 2021.12.05 일요일 : @Component, @Configuration, @Bean : - **Result** :  
-@Component : 개발자가 직접 작성한 클래스를 bean 등록하고자 할 경우 사용,@Configuration + @Bean : - 외부라이브러 또는 내장 클래스를 bean으로 등록하고자 할 경우 사용, 1개 이상의 @Bean을 제공하는 클래스의 경우 반드시 @Configuraton을 명시<br>
-2021.12.05 일요일 : @Component, @Bean 차이 : - **Result** : <br>
+@Component : 개발자가 직접 작성한 클래스를 bean 등록하고자 할 경우 사용,@Configuration + @Bean : - 외부라이브러 또는 내장 클래스를 bean으로 등록하고자 할 경우 사용, 1개 이상의 @Bean을 제공하는 클래스의 경우 반드시 @Configuraton을 명시, 리턴 타입이 중복이 되는 경우가 있기 때문에 Bean 이름까지 적어줘야 하는 경우가 생길 수 있다<br>
 
