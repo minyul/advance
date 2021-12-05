@@ -14,3 +14,5 @@
 2021.11.30 화요일 : AllNoArgsConstructor, NoArgsConstructor 어노테이션 - **Result** :  이것또한 간단. 다만, 더나아가 ObjectMapper에 대해 공부해야할듯.<br>
 2021.11.30 화요일 : 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - **Result** : 회사에 대한 금융설계에 대해 완벽히 파악하고자함. 금융에 부족한 부분  <br>
 2021.12.02 목요일 : ObjecctMapper 공부 (@RequestBody -> DTO ) - **Result** : contentType, application/json, MIME 타입, MappingJackson2HttpMessageConverter ( 내부적으로 들어가면 ObjectMapper ) 또한 @Getter, @Setter 중 한개만써도되는 이유는 getA, setA 메소드네임에서 get,set을 뺀 A만 남겨서 바인딩하기에 가능 <br>  
+
+2021.12.05 일요일 : spring clould feign - **Result** :
